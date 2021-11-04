@@ -1,0 +1,16 @@
+body {
+    background-color: midnightblue;
+    color: white;
+    text-align: center;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    padding: 10px;
+    font-size: medium;
+    margin: 20px;
+}
